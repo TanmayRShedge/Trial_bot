@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 JSOM Chatbot – Ask Me Anything
 
 A local AI-powered chatbot designed to answer questions about the Naveen Jindal School of Management (JSOM) at The University of Texas at Dallas. Built using LangChain, FAISS, Streamlit, and Mistral (via Ollama).
@@ -101,3 +102,6 @@ Feel free to open an issue or submit a PR. Let’s make academic info more acces
 Built with ❤️ by Ashlesha Kadam
 
 ---
+=======
+# Trial_bot
+>>>>>>> b928c05b6d8293b6baad04b439caf5d2f8f2b12d
